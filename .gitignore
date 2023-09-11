@@ -161,4 +161,4 @@ cython_debug/
 
 
 # Custom
-ignore_this
+ignore_this.txt
